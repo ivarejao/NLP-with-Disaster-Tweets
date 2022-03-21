@@ -50,7 +50,7 @@ Here are the list of the classifiers applied into the dataset:
 <li>Random Forest</li>
 </ul>
 
-By the ROC curve we can see that the SVM had the best result compare to the other classifiers.
+By the ROC curve we can see that the SVM had the best result compare to the others classifiers.
 
 ![img.png](images/img.png)
 
