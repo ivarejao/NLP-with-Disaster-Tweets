@@ -52,7 +52,7 @@ Here are the list of the classifiers applied into the dataset:
 
 By the ROC curve we can see that the SVM had the best result compare to the other classifiers.
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 #### SVM results report
 ```text
@@ -66,7 +66,7 @@ By the ROC curve we can see that the SVM had the best result compare to the othe
 weighted avg       0.73      0.74      0.73      2176
 ```
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 ## Conclusion
 As you can see, even the best classifier hadn't got a recall up to 0.5 of the positive class,
